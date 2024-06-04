@@ -8,7 +8,8 @@ Welcome to the Biomedical Image Segmentation Repository! This repository contain
 <img width="637" alt="Skærmbillede 2024-06-03 kl  16 26 56" src="https://github.com/josephmargaryan/Biomedical-Image-Segmentation/assets/126695370/c18a8485-3ba2-45d1-8b10-1dfb626ebe6b">
 
 2. **Vision Transformer (ViT) for Segmentation:** Build a Vision Transformer model specifically tailored for segmentation tasks, providing a novel approach to image segmentation using transformer architectures.
-<img width="842" alt="TransformerSeg" src="https://github.com/josephmargaryan/Biomedical-Image-Segmentation/assets/126695370/10990970-36ab-43c1-913d-b7375f45592b">
+<img width="973" alt="TransformerSeg" src="https://github.com/josephmargaryan/Biomedical-Image-Segmentation/assets/126695370/8feeeff9-eea1-4132-80eb-edfe51e09bf5">
+
 
 3. **Attention Map extraction:** A function that takes in a file path and returns thee averaged attention maps over each layer from the ViT
 <img width="862" alt="AttentionMaps" src="https://github.com/josephmargaryan/Biomedical-Image-Segmentation/assets/126695370/5a2201e1-159a-4478-bbba-ad8180f19a91">
