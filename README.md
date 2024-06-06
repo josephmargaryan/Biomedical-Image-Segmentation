@@ -12,7 +12,7 @@ Welcome to the Biomedical Image Segmentation Repository! This repository contain
 
 
 3. **Attention Map extraction:** A function that takes in a file path and returns the averaged attention maps over each layer from the ViT
-<img width="862" alt="AttentionMaps" src="https://github.com/josephmargaryan/Biomedical-Image-Segmentation/assets/126695370/5a2201e1-159a-4478-bbba-ad8180f19a91">
+<img width="801" alt="Skærmbillede 2024-06-06 kl  22 46 38" src="https://github.com/josephmargaryan/Biomedical-Image-Segmentation/assets/126695370/d3979ef3-271c-4877-84e0-1e81407583bd">
 
 4. **ViT for Classification:** The Vision Transformer architecture is utilized for image classification tasks, offering a versatile solution for various image analysis applications.
 
