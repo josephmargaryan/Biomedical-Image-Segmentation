@@ -12,12 +12,11 @@ Welcome to the Biomedical Image Segmentation Repository! This repository contain
 
 
 3. **Attention Map extraction:** A function that takes in a file path and returns the averaged attention maps over each layer from the ViT
-<img width="801" alt="Skærmbillede 2024-06-06 kl  22 46 38" src="https://github.com/josephmargaryan/Biomedical-Image-Segmentation/assets/126695370/d3979ef3-271c-4877-84e0-1e81407583bd">
 
 4. **ViT for Classification:** The Vision Transformer architecture is utilized for image classification tasks, offering a versatile solution for various image analysis applications.
 
 5. **Attention UNet from Scratch:** Develop an Attention UNet model from scratch, combining the power of self-attention mechanisms with the UNet architecture for enhanced segmentation performance and functions to visualize the attention gates.
-<img width="1026" alt="AttForwad" src="https://github.com/josephmargaryan/Biomedical-Image-Segmentation/assets/126695370/6b0e03bb-dcfa-46f2-a9ac-3c087562d0a1">
+<img width="801" alt="Skærmbillede 2024-06-06 kl  22 46 38" src="https://github.com/josephmargaryan/Biomedical-Image-Segmentation/assets/126695370/d3979ef3-271c-4877-84e0-1e81407583bd">
 
 7. **Feature Maps from AttentionUNET:** Develop a function to extract the feature maps from every layer in the Attention-Unet. This helps us visualize the learned patterns that the model stores in the channel dimensions
 
