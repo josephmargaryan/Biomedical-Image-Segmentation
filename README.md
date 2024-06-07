@@ -1,6 +1,6 @@
 ## Biomedical Image Segmentation Repository
 
-Welcome to the Biomedical Image Segmentation Repository! This repository contains all the necessary modules, classes, and functions to instantiate a project in image segmentation quickly. Whether you're a researcher, developer, or practitioner in the field of medical imaging, this repository provides essential tools for your segmentation tasks.
+Welcome to the Biomedical Image Segmentation Repository! This repository contains all the necessary modules, classes, and functions to instantiate a project in image segmentation quickly. Whether you're a researcher, developer, or practitioner in medical imaging, this repository provides essential tools for your segmentation tasks.
 
 ### Features
 
@@ -19,8 +19,8 @@ Welcome to the Biomedical Image Segmentation Repository! This repository contain
 5. **Attention UNet from Scratch:** Develop an Attention UNet model from scratch, combining the power of self-attention mechanisms with the UNet architecture for enhanced segmentation performance and functions to visualize the attention gates.
 <img width="1026" alt="AttForwad" src="https://github.com/josephmargaryan/Biomedical-Image-Segmentation/assets/126695370/6b0e03bb-dcfa-46f2-a9ac-3c087562d0a1">
 
-7. **Feature Maps from AttentionUNET:** Develop a function to extract the feature maps from every layer in the Attention-Unet. This helps us visualize the learned patterns which the model stores in the channel dimensions
-   <img width="842" alt="Skærmbillede 2024-06-05 kl  23 34 35" src="https://github.com/josephmargaryan/Biomedical-Image-Segmentation/assets/126695370/4bd25b49-0180-437b-8dc0-ea8d7b82d963">
+7. **Feature Maps from AttentionUNET:** Develop a function to extract the feature maps from every layer in the Attention-Unet. This helps us visualize the learned patterns that the model stores in the channel dimensions
+
 
 8. **Evaluation Class:** Quickly assess the performance of trained models using binary mean Dice and binary mean Intersection over Union metrics, ensuring rigorous evaluation of segmentation results.
 
